@@ -1,4 +1,4 @@
-ChatterBox - Simple Java Chatbot
+# ChatterBox - Simple Java Chatbot
 
 ChatterBox is a simple Java-based chatbot that responds to user inputs. The application utilizes Swing for the graphical user interface.
 
